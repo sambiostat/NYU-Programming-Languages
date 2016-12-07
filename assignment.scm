@@ -1,5 +1,5 @@
 ;;;PL Homework -scheme
-;;; Jinchun Zhang
+;;; 
 ;;;Q1
 ;;; Base Case: L is empty, return 0
 ;;; Assumption: (count-numbers M) returns a count of the numbers in M, for
