@@ -1,5 +1,4 @@
 (*ML Assignment *)
-(*JINCHUN ZHANG*)
 
 Control.Print.printDepth := 100;
 Control.Print.printLength := 100;
